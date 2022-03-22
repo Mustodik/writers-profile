@@ -10,47 +10,47 @@
 
 {
     "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"Belle Hooks",
+    "avatar":"belle_hooks",
+    "email":"bellehooks@gmail.com",
+    "phone":"+233 503662054",
+    "bio":"am a professional IT student ans so what"
+},
+
+{
+    "id":1,
+    "name":"Du Bois",
+    "avatar":"du_bois",
+    "email":"dubois@gmail.com",
+    "phone":"+233 503662054",
+    "bio":"am a professional IT student"
+},
+ 
+{
+    "id":1,
+    "name":"James Baldwin",
+    "avatar":"james_baldwin",
+    "email":"jamesbaldwin@gmail.com",
     "phone":"+233 503662054",
     "bio":"am a professional IT student"
 },
 
 {
     "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"Lanston Hughes",
+    "avatar":"lanston_hughes",
+    "email":"lanstonhughes@gmail.com",
     "phone":"+233 503662054",
-    "bio":"am a professional IT student"
+    "bio":"am a professional IT student school at preMest"
 },
 
 {
     "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"Maya Angelou",
+    "avatar":"maya_angelou",
+    "email":"mayaangelou@gmail.com",
     "phone":"+233 503662054",
-    "bio":"am a professional IT student"
-},
-
-{
-    "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
-    "phone":"+233 503662054",
-    "bio":"am a professional IT student"
-},
-
-{
-    "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
-    "phone":"+233 503662054",
-    "bio":"am a professional IT student"
+    "bio":"am a professional IT student school at preMest"
 }
 
 
